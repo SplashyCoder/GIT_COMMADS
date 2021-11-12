@@ -1,0 +1,16 @@
+git commit : crea nueva version 
+git commit -m"": crea nueva version pero salta el editor de texto y escribe de una vez las notas de la version
+git add: añade un archivo para hacerle commit
+git log: muestra la lista de versiones
+git add. : añade todos los archivos editados 
+git branch: muestra la version del codigo en la que estamos// marca en verde el nombre de la version en la que estamos trabajando
+git branch <>: crea una version alterna del codigo con el nombre elejido
+git chekout <>: cambia a la version del codigo a editar
+git remote add origin <> : sincroniza repositorio con Github por primera vez
+git push -u origin master : sincroniza repositorio con Github
+git chekout -f <>: debuelve el codigo recien editado a la version guardada en el repositorio
+
+
+
+
+  
